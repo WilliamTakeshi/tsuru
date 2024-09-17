@@ -1,7 +1,7 @@
 
 # Market Data Feed Parser
 
-This Rust program is designed to parse and process quote messages from a market data feed. It can handle large files efficiently and re-order messages based on the 'quote accept time' if requested. The program reads data from a pcap file that contains UDP broadcast packets and prints the parsed information in a structured format.
+This Rust program is designed to parse and process quote messages from a market data feed. It can handle large files efficiently and re-order messages based on the 'quote accept time' if requested.
 
 
 ## Requirements
