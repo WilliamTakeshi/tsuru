@@ -1,0 +1,9 @@
+[package]
+name = "tsuru"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+pcap = "0.10"
+structopt = "0.3"
+chrono = "0.4"
